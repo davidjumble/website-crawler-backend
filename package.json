@@ -1,0 +1,20 @@
+{
+  "name": "website-crawler-backend",
+  "version": "1.0.0",
+  "description": "This is the backend for the website crawler. The website crawler will recurse through all the links on a website and check all links to see if they are broken or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidjumble/website-crawler-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidjumble/website-crawler-backend/issues"
+  },
+  "homepage": "https://github.com/davidjumble/website-crawler-backend#readme"
+}
